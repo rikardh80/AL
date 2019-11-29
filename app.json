@@ -1,0 +1,26 @@
+{
+  "id": "5f65c953-3ee0-46e9-bc0a-7b5afe03eb78",
+  "name": "ALProject5",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://ALProject5.com/help/",
+  "showMyCode": true,
+  "runtime": "3.2"
+}
