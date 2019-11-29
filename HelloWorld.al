@@ -7,5 +7,8 @@ pageextension 50100 CustomerListExt extends "Customer List"
     trigger OnOpenPage();
     begin
         ERROR('App published: Hello world');
+        //Catalin asked me to do a change
     end;
+
+    //TODO
 }
